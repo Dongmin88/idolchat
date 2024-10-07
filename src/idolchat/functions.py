@@ -117,7 +117,7 @@ def send_message(app, user_input, message_area, character):
 
     # Save the conversation
     save_conversation(character, message_area.value)
-
+ 
 
 
 def bot_reply(user_message, character):
